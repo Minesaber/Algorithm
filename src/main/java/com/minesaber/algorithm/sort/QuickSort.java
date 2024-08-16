@@ -1,4 +1,4 @@
-package com.minesaber.sort;
+package com.minesaber.algorithm.sort;
 
 /**
  * @author Minesaber
